@@ -1,24 +1,21 @@
-# rocketsales-frontend
+# Тестовое задание для RocketSales | Frontend
+Стек: TypeScript, Vue.js 3
 
-## Project setup
+## Как установить?
+
+1. Клонируем проект
+2. Устанавливаем зависимости
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Как запустить?
+dev:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+prod:
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
